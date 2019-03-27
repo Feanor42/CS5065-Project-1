@@ -11,3 +11,7 @@ This application is a web application UI that shows a 7-day forecast and restful
 ## Usage
 
 1. Run `docker run -d -p 80:80 project1`
+
+For API reference, view README here: [Weather API Reference](https://github.com/Feanor42/CS5065-Assignment-2/blob/master/README.md)
+
+For web application UI reference, view README here: [Weather App UI Reference](https://github.com/Feanor42/CS5065-Assignment-3/blob/master/README.md)
